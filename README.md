@@ -1,2 +1,2 @@
-# tryMotherFuckingWebsite.github.io
-tryMotherFuckingWebsite.github.io
+# MotherFuckingWebsite.github.io
+http://trymotherfuckingwebsite.github.io/
